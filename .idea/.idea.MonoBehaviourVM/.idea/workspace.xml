@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8220533c-c572-4144-b158-3a0b173a8197" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ViewModelProperty.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ViewModelProperty.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <marker date="1494711397125" expanded="true" signature="7:79" ph="..." />
+                <marker date="1494711397125" expanded="true" signature="127:346" ph="{...}" />
+                <marker date="1494711397125" expanded="true" signature="217:258" ph="{...}" />
+                <marker date="1494711397125" expanded="true" signature="301:344" ph="{...}" />
+                <marker date="1494711397125" expanded="true" signature="409:852" ph="{...}" />
+                <marker date="1494711397125" expanded="true" signature="509:553" ph="{...}" />
+                <marker date="1494711397125" expanded="true" signature="592:850" ph="{...}" />
+                <marker date="1494711397125" expanded="true" signature="640:844" ph="{...}" />
+                <marker date="1494711397125" expanded="true" signature="730:834" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombineLatestOperator.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/CombineLatestOperator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding>
+                <marker date="1494805343870" expanded="true" signature="6:58" ph="..." />
+                <marker date="1494805343870" expanded="true" signature="122:612" ph="{...}" />
+                <marker date="1494805343870" expanded="true" signature="274:316" ph="{...}" />
+                <marker date="1494805343870" expanded="true" signature="342:424" ph="{...}" />
+                <marker date="1494805343870" expanded="true" signature="451:539" ph="{...}" />
+                <marker date="1494805343870" expanded="true" signature="580:610" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewModelPropertyOperator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ViewModelPropertyOperator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <folding>
+                <marker date="1494800253901" expanded="true" signature="85:94" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+              <folding>
+                <marker date="1494738735756" expanded="true" signature="67:390" ph="{...}" />
+                <marker date="1494738735756" expanded="true" signature="225:380" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewModelValidator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ViewModelValidator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="58" column="11" lean-forward="false" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+              <folding>
+                <marker date="1494734785051" expanded="true" signature="81:2016" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="211:432" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="241:343" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="474:525" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="564:1401" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="775:1397" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="976:1189" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="1239:1392" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="1501:1912" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="1641:1693" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="1702:1886" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2006:2013" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2079:3137" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2167:2241" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2295:2381" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2433:2611" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2477:2604" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2658:3134" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2702:3097" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="2792:3085" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="3203:3307" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="3257:3304" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="3368:3613" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="3408:3433" ph="{...}" />
+                <marker date="1494734785051" expanded="true" signature="3484:3610" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewModelValidatorFactory.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ViewModelValidatorFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding>
+                <marker date="1494740196616" expanded="true" signature="79:953" ph="{...}" />
+                <marker date="1494740196616" expanded="true" signature="163:950" ph="{...}" />
+                <marker date="1494740196616" expanded="true" signature="354:493" ph="{...}" />
+                <marker date="1494740196616" expanded="true" signature="757:904" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewModelPropertyDrawer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ViewModelPropertyDrawer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+              <folding>
+                <marker date="1494711406328" expanded="true" signature="6:102" ph="..." />
+                <marker date="1494711406328" expanded="true" signature="207:2264" ph="{...}" />
+                <marker date="1494711406328" expanded="true" signature="302:2262" ph="{...}" />
+                <marker date="1494711406328" expanded="true" signature="509:2161" ph="{...}" />
+                <marker date="1494711406328" expanded="true" signature="1494:1616" ph="{...}" />
+                <marker date="1494711406328" expanded="true" signature="1874:2097" ph="{...}" />
+                <marker date="1494711406328" expanded="true" signature="2174:2256" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ExampleViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1494712011063" expanded="true" signature="64:355" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SceneExampleViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SceneExampleViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1494712010339" expanded="true" signature="69:257" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SerializationUtility.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SerializationUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1494707263481" expanded="false" signature="6:114" ph="..." />
+                <marker date="1494707263481" expanded="true" signature="158:1081" ph="{...}" />
+                <marker date="1494707263481" expanded="true" signature="440:778" ph="{...}" />
+                <marker date="1494707263481" expanded="true" signature="840:925" ph="{...}" />
+                <marker date="1494707263481" expanded="true" signature="986:1079" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditorApplication.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/84/4aa54ca7/EditorApplication.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrefabUtility.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/cd/a4238872/PrefabUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/7A751388-D6E4-43E6-8AAD-73C94C8C01C3/93/a6a1ddd4/GameObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="304" column="11" lean-forward="false" selection-start-line="304" selection-start-column="11" selection-end-line="304" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditorGUI.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/3c/3b0f12a5/EditorGUI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="4542" column="62" lean-forward="false" selection-start-line="4542" selection-start-column="62" selection-end-line="4542" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditorGUIUtility.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/21/763b347b/EditorGUIUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2924">
+              <caret line="357" column="32" lean-forward="false" selection-start-line="357" selection-start-column="32" selection-end-line="357" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomAttributeExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/6B572C49-48B0-4111-AD41-B5ABD2301DF5/16/a95f22f1/CustomAttributeExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="218" column="23" lean-forward="false" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FieldInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/6B572C49-48B0-4111-AD41-B5ABD2301DF5/59/14f23bd9/FieldInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FieldAttributes.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/6B572C49-48B0-4111-AD41-B5ABD2301DF5/76/8a7d9fb5/FieldAttributes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MBVM.cs" />
+        <option value="$PROJECT_DIR$/Assets/_String.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Int.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Float.cs" />
+        <option value="$PROJECT_DIR$/Assets/SetSliderRatio.cs" />
+        <option value="$PROJECT_DIR$/Assets/StringReaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatReaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/PropertyChangeReaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/SerializationUtility.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewModelPropertyDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExampleViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneExampleViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewModelValidator.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewModelValidatorFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewModelPropertyOperator.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewModelProperty.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombineLatestOperator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1767" />
+    <option name="y" value="371" />
+    <option name="width" value="1390" />
+    <option name="height" value="1601" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonoBehaviourVM (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="SearchEverywhereHistoryKey" value="viewmodel&#9;FILE&#9;file://C:/Projects/MonoBehaviourVM/Assets/ViewModelPropertyDrawer.cs&#10;example&#9;FILE&#9;file://C:/Projects/MonoBehaviourVM/Assets/ExampleViewModel.cs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1767" y="371" width="1390" height="1601" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293092" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997987" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496361" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ViewModelProperty.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1494711397125" expanded="true" signature="7:79" ph="..." />
+            <marker date="1494711397125" expanded="true" signature="127:346" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="217:258" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="301:344" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="409:852" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="509:553" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="592:850" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="640:844" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="730:834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Float.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding>
+            <marker date="1494651727791" expanded="true" signature="46:55" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1494651727763" expanded="true" signature="48:53" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SetSliderRatio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1494654149705" expanded="true" signature="6:56" ph="..." />
+            <marker date="1494654149705" expanded="true" signature="104:257" ph="{...}" />
+            <marker date="1494654149705" expanded="true" signature="191:254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Int.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding>
+            <marker date="1494651727807" expanded="true" signature="42:51" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/55A1B7AB-6D7B-4D7C-B2A3-70F4F4EC8FA9/67/c566bf82/ListPool`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/55A1B7AB-6D7B-4D7C-B2A3-70F4F4EC8FA9/da/317c3242/ExecuteEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="526" column="63" lean-forward="false" selection-start-line="526" selection-start-column="63" selection-end-line="526" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/StringReaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1494657048684" expanded="false" signature="6:45" ph="..." />
+            <marker date="1494657048684" expanded="true" signature="102:406" ph="{...}" />
+            <marker date="1494657048684" expanded="true" signature="212:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PropertyChangeReaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1494694537387" expanded="true" signature="6:45" ph="..." />
+            <marker date="1494694537387" expanded="true" signature="101:538" ph="{...}" />
+            <marker date="1494694537387" expanded="true" signature="226:281" ph="{...}" />
+            <marker date="1494694537387" expanded="true" signature="313:377" ph="{...}" />
+            <marker date="1494694537387" expanded="true" signature="410:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FloatReaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1494657048692" expanded="false" signature="6:45" ph="..." />
+            <marker date="1494657048692" expanded="true" signature="101:398" ph="{...}" />
+            <marker date="1494657048692" expanded="true" signature="210:317" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/6B572C49-48B0-4111-AD41-B5ABD2301DF5/76/8a7d9fb5/FieldAttributes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/6B572C49-48B0-4111-AD41-B5ABD2301DF5/59/14f23bd9/FieldInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/6B572C49-48B0-4111-AD41-B5ABD2301DF5/16/a95f22f1/CustomAttributeExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="218" column="23" lean-forward="false" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/21/763b347b/EditorGUIUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2924">
+          <caret line="357" column="32" lean-forward="false" selection-start-line="357" selection-start-column="32" selection-end-line="357" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/3c/3b0f12a5/EditorGUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="4542" column="62" lean-forward="false" selection-start-line="4542" selection-start-column="62" selection-end-line="4542" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/7A751388-D6E4-43E6-8AAD-73C94C8C01C3/93/a6a1ddd4/GameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="304" column="11" lean-forward="false" selection-start-line="304" selection-start-column="11" selection-end-line="304" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/cd/a4238872/PrefabUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/40A174E7-6BA2-49A6-8BEB-767108B628F9/84/4aa54ca7/EditorApplication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SerializationUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1494707263481" expanded="false" signature="6:114" ph="..." />
+            <marker date="1494707263481" expanded="true" signature="158:1081" ph="{...}" />
+            <marker date="1494707263481" expanded="true" signature="440:778" ph="{...}" />
+            <marker date="1494707263481" expanded="true" signature="840:925" ph="{...}" />
+            <marker date="1494707263481" expanded="true" signature="986:1079" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ViewModelPropertyDrawer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1494711406328" expanded="true" signature="6:102" ph="..." />
+            <marker date="1494711406328" expanded="true" signature="207:2264" ph="{...}" />
+            <marker date="1494711406328" expanded="true" signature="302:2262" ph="{...}" />
+            <marker date="1494711406328" expanded="true" signature="509:2161" ph="{...}" />
+            <marker date="1494711406328" expanded="true" signature="1494:1616" ph="{...}" />
+            <marker date="1494711406328" expanded="true" signature="1874:2097" ph="{...}" />
+            <marker date="1494711406328" expanded="true" signature="2174:2256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ExampleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1494712011063" expanded="true" signature="64:355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ViewModelValidator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="58" column="11" lean-forward="false" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding>
+            <marker date="1494734785051" expanded="true" signature="81:2016" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="211:432" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="241:343" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="474:525" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="564:1401" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="775:1397" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="976:1189" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="1239:1392" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="1501:1912" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="1641:1693" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="1702:1886" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2006:2013" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2079:3137" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2167:2241" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2295:2381" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2433:2611" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2477:2604" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2658:3134" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2702:3097" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="2792:3085" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="3203:3307" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="3257:3304" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="3368:3613" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="3408:3433" ph="{...}" />
+            <marker date="1494734785051" expanded="true" signature="3484:3610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SceneExampleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1494712010339" expanded="true" signature="69:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ViewModelValidatorFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <marker date="1494740196616" expanded="true" signature="79:953" ph="{...}" />
+            <marker date="1494740196616" expanded="true" signature="163:950" ph="{...}" />
+            <marker date="1494740196616" expanded="true" signature="354:493" ph="{...}" />
+            <marker date="1494740196616" expanded="true" signature="757:904" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+          <folding>
+            <marker date="1494738735756" expanded="true" signature="67:390" ph="{...}" />
+            <marker date="1494738735756" expanded="true" signature="225:380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ViewModelPropertyOperator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding>
+            <marker date="1494800253901" expanded="true" signature="85:94" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ViewModelProperty.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1494711397125" expanded="true" signature="7:79" ph="..." />
+            <marker date="1494711397125" expanded="true" signature="127:346" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="217:258" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="301:344" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="409:852" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="509:553" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="592:850" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="640:844" ph="{...}" />
+            <marker date="1494711397125" expanded="true" signature="730:834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CombineLatestOperator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <marker date="1494805343870" expanded="true" signature="6:58" ph="..." />
+            <marker date="1494805343870" expanded="true" signature="122:612" ph="{...}" />
+            <marker date="1494805343870" expanded="true" signature="274:316" ph="{...}" />
+            <marker date="1494805343870" expanded="true" signature="342:424" ph="{...}" />
+            <marker date="1494805343870" expanded="true" signature="451:539" ph="{...}" />
+            <marker date="1494805343870" expanded="true" signature="580:610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
